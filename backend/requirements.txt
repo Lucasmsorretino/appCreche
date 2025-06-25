@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlmodel
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+httpx
+pytest
+pytest-asyncio
